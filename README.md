@@ -1,1 +1,13 @@
-# Azhal
+
+   { "access_token": "APP_USR-3282979725245200-013023-4344c1966405ac4cd172dc51d1845962-1659538195",
+    "prefix": "/",
+    "owner": "665564160733609994",
+    "logs": "1202266605942493235",
+    "logs_staff": "1202265229120262175",
+    "category": "1181105494836912228",
+    "title": "imperio-vendas",
+    "color": "#9600ff",
+    "banner": "https://cdn.discordapp.com/attachments/1202261365398708326/1202266590796582972/073e9520f56b325bb0346161647198a7.webp?ex=65ccd504&is=65ba6004&hm=071ae80ec34d16b834f3a462e2fa97e2ea9d9ae9c6d5fcd93c655084cb1d53d1&",
+    "thumbnail": "https://cdn.discordapp.com/attachments/1202261365398708326/1202266590796582972/073e9520f56b325bb0346161647198a7.webp?ex=65ccd504&is=65ba6004&hm=071ae80ec34d16b834f3a462e2fa97e2ea9d9ae9c6d5fcd93c655084cb1d53d1&",
+    "role": "1160746795534659705"
+}
